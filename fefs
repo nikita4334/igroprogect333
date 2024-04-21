@@ -1,0 +1,3 @@
+git удаленное добавление источника https://github.com/nikita4334/igroprogect333.git
+ git Branch -M main 
+git push -u origin main
